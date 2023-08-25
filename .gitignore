@@ -3,3 +3,4 @@ package-lock.json
 .vscode/launch.json
 .vscode/settings.json
 .idea
+*
